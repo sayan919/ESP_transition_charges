@@ -6,7 +6,7 @@ Place  : University of California, Merced
 Lab    : Dr. Isborn
 Code   : Calculate the excitonic coupling between two monomers using the transition charges
         obtained from the electrostatic potential fitting
-Usage  : python coupling_tQ_ESP.py --log_files monomer1.log monomer2.log
+Usage  : python coupling_ATC_ESP.py --log_files monomer1.log monomer2.log
 """
 
 
