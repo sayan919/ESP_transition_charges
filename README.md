@@ -37,3 +37,6 @@ Please refer to the derivation_ESP_Transition_Charges.pdf for the full derivatio
    ````
    python coupling_ATC_ESP.py --log_files monomer1.log monomer2.log
    ````
+
+NOTE: The ESP charges have to be scaled by $\sqrt{2}$ and so couplings by 2. This is implemented
+in the code, no extra steps required.
