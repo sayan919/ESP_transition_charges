@@ -35,5 +35,5 @@ Please refer to the derivation_ESP_Transition_Charges.pdf for the full derivatio
    Make sure you use these keywords to get the right potential
 2. Run the script as follows:
    ````
-   python coupling_tQ_ESP.py --log_files monomer1.log monomer2.log
+   python coupling_ATC_ESP.py --log_files monomer1.log monomer2.log
    ````
