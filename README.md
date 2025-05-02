@@ -19,7 +19,7 @@ Please refer to the derivation_ESP_Transition_Charges.pdf for the full derivatio
 
 1. Perform a Vertical Excitation Energy calculation in Gaussian using the following keywords:
    ````
-    # CAM-B3LYP/6-31G*  NoSymm TDA(Root=1,NStates=6)  ! Level of theory
+    # CAM-B3LYP/6-31G* NoSymm TDA(Root=1,NStates=6)   ! Level of theory
     # Integral(Grid=Fine) SCF(Conver=10)              ! Integral and SCF settings
     # scrf=(iefpcm,solvent={env})                     ! for implicit solvent if present
     # IOp(9/40=4)                                     ! Threshold for printing eigenvector components 
