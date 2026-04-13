@@ -12,7 +12,7 @@ Given grid points $\{R_\mu\}$ with corresponding potentials $\Phi^{QM}_{\mu}$ an
 we want to solve for the atomic charges $\{q_i\}$ such that the electrostatic potential is reproduced and  
 the sum of the charges is zero.
 
-Please refer to the derivation_ESP_Transition_Charges.pdf for the full derivation
+Please refer to the [PDF document](ESP_Transition_Charges_extended_.pdf) for the full derivation
 
 
 ## Procedure
